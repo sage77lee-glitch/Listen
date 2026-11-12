@@ -2,6 +2,27 @@
   "notice": "선생님이 **엄선한** 원서 음원을 들어 보세요!",
   "items": [
     {
+      "id": "mi16qnn",
+      "level": 1,
+      "title": "The Solar System",
+      "ko": "",
+      "author": "",
+      "part": "",
+      "minutes": "",
+      "url": "audio/2026-11-12-qc3649.mp3",
+      "note": "",
+      "isNew": true,
+      "lines": [],
+      "words": [],
+      "series": "Time to Discover",
+      "file": "audio/2026-11-12-qc3649.mp3",
+      "fileName": "02 트랙 2.mp3",
+      "size": 6697820,
+      "duration": 167
+    },
+    {
+      "lines": [],
+      "words": [],
       "id": "ep-thank-you",
       "level": 1,
       "series": "Elephant & Piggie",
@@ -13,11 +34,11 @@
       "minutes": "",
       "url": "",
       "note": "",
-      "isNew": true,
-      "lines": [],
-      "words": []
+      "isNew": true
     },
     {
+      "lines": [],
+      "words": [],
       "id": "ep-today-fly",
       "level": 1,
       "series": "Elephant & Piggie",
@@ -29,11 +50,11 @@
       "minutes": "",
       "url": "",
       "note": "",
-      "isNew": false,
-      "lines": [],
-      "words": []
+      "isNew": false
     },
     {
+      "lines": [],
+      "words": [],
       "id": "ep-friend-sad",
       "level": 1,
       "series": "Elephant & Piggie",
@@ -45,11 +66,11 @@
       "minutes": "",
       "url": "",
       "note": "",
-      "isNew": false,
-      "lines": [],
-      "words": []
+      "isNew": false
     },
     {
+      "lines": [],
+      "words": [],
       "id": "ep-bird-head",
       "level": 1,
       "series": "Elephant & Piggie",
@@ -61,11 +82,11 @@
       "minutes": "",
       "url": "",
       "note": "",
-      "isNew": false,
-      "lines": [],
-      "words": []
+      "isNew": false
     },
     {
+      "lines": [],
+      "words": [],
       "id": "ep-party",
       "level": 1,
       "series": "Elephant & Piggie",
@@ -77,11 +98,11 @@
       "minutes": "",
       "url": "",
       "note": "",
-      "isNew": false,
-      "lines": [],
-      "words": []
+      "isNew": false
     },
     {
+      "lines": [],
+      "words": [],
       "id": "ep-new-toy",
       "level": 1,
       "series": "Elephant & Piggie",
@@ -93,11 +114,11 @@
       "minutes": "",
       "url": "",
       "note": "",
-      "isNew": false,
-      "lines": [],
-      "words": []
+      "isNew": false
     },
     {
+      "lines": [],
+      "words": [],
       "id": "ep-surprise",
       "level": 1,
       "series": "Elephant & Piggie",
@@ -109,11 +130,11 @@
       "minutes": "",
       "url": "",
       "note": "",
-      "isNew": false,
-      "lines": [],
-      "words": []
+      "isNew": false
     },
     {
+      "lines": [],
+      "words": [],
       "id": "ep-play-outside",
       "level": 1,
       "series": "Elephant & Piggie",
@@ -125,11 +146,11 @@
       "minutes": "",
       "url": "",
       "note": "",
-      "isNew": false,
-      "lines": [],
-      "words": []
+      "isNew": false
     },
     {
+      "lines": [],
+      "words": [],
       "id": "ep-throw-ball",
       "level": 1,
       "series": "Elephant & Piggie",
@@ -141,11 +162,11 @@
       "minutes": "",
       "url": "",
       "note": "",
-      "isNew": false,
-      "lines": [],
-      "words": []
+      "isNew": false
     },
     {
+      "lines": [],
+      "words": [],
       "id": "ep-going",
       "level": 1,
       "series": "Elephant & Piggie",
@@ -157,11 +178,11 @@
       "minutes": "",
       "url": "",
       "note": "",
-      "isNew": false,
-      "lines": [],
-      "words": []
+      "isNew": false
     },
     {
+      "lines": [],
+      "words": [],
       "id": "ep-ice-cream",
       "level": 1,
       "series": "Elephant & Piggie",
@@ -173,9 +194,7 @@
       "minutes": "",
       "url": "",
       "note": "",
-      "isNew": false,
-      "lines": [],
-      "words": []
+      "isNew": false
     }
   ]
 }
